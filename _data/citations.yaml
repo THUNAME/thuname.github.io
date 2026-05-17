@@ -528,6 +528,60 @@
   orcid: 0000-0002-7348-5833
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1186/s42400-025-00420-2
+  title: Heterogeneous federated learning for imbalanced phishing email detection
+  authors:
+  - Xiaoyang Yi
+  - Linyu Li
+  - Jian Zhang
+  - Zedong Jia
+  publisher: Cybersecurity
+  date: '2026-01-08'
+  link: https://doi.org/hb4md6
+  orcid: 0009-0002-7498-9395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/issre66568.2025.00014
+  title: 'Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice
+    Failure Diagnosis'
+  authors:
+  - Shenglin Zhang
+  - Xiaoyu Feng
+  - Runzhou Wang
+  - Minghua Ma
+  - Wenwei Gu
+  - Yongqian Sun
+  - Zedong Jia
+  - Jinrui Sun
+  - Dan Pei
+  publisher: 2025 IEEE 36th International Symposium on Software Reliability Engineering
+    (ISSRE)
+  date: '2025-10-21'
+  link: https://doi.org/hb4md7
+  orcid: 0009-0002-7498-9395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3691620.3695489
+  title: Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal
+    Adaptive Optimization
+  authors:
+  - Lei Tao
+  - Shenglin Zhang
+  - Zedong Jia
+  - Jinrui Sun
+  - Minghua Ma
+  - Zhengdan Li
+  - Yongqian Sun
+  - Canqun Yang
+  - Yuzhi Zhang
+  - Dan Pei
+  publisher: Proceedings of the 39th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2024-10-27'
+  link: https://doi.org/hb4md8
+  orcid: 0009-0002-7498-9395
+  plugin: orcid.py
+  file: orcid.yaml
 - id: conference:ICNP25_1st
   title: 'Lightning in the Dark: Uncovering Global IPv6 Router Interfaces and Their
     Security Implications'
