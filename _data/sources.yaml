@@ -1,3 +1,101 @@
+# Zedongjia Add:
+# 1. ID 必须为 doi or isbn, 如果无其他需要，只填id就行
+
+
+- id: doi:10.1109/ICNP65844.2025.11192454
+  tags:
+  - IPv6
+  - Network Measurement
+
+- id: doi:10.1109/ICNP65844.2025.11192387
+  tags:
+  - IPv6
+  - Network Measurement
+
+- id: doi:10.1109/ICNP65844.2025.11192425
+  tags:
+  - FRP
+  - IPv6
+  - Network Measurement
+  
+- id: doi:10.1109/IWQoS65803.2025.11143432
+  tags:
+  - SAV
+  - IPv6
+  - Network Measurement
+
+- id: doi:10.1109/IWQoS65803.2025.11143455
+  tags:
+  - IPv6
+  - Covert Communication
+  - FRP
+  - Aliased Prefixes
+
+- id: isbn:978-1-939133-48-9
+  buttons:
+  - type: manubot
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
+  - type: source
+    text: Manuscript Source
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
+  - type: website
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
+  tags:
+  - Cloud Gateway
+
+- id: doi:10.1145/3696410.3714809
+  buttons:
+  - type: manubot
+    link: 
+  - type: source
+    text: Manuscript Source
+    link: https://dl.acm.org/doi/pdf/10.1145/3696410.3714809
+  - type: website
+    link: https://dl.acm.org/doi/10.1145/3696410.3714809
+  tags:
+  - SDN
+  - Layer-7 Load Balancing
+  - Programmable Switch
+  repo: "https://github.com/THUNAME/Miresga"
+
+- id: doi:10.1109/INFOCOM55648.2025.11044705
+  buttons:
+  - type: manubot
+    link: 
+  - type: source
+    text: Manuscript Source
+    link: https://ieeexplore.ieee.org/abstract/document/11044705
+  - type: website
+    link: https://ieeexplore.ieee.org/abstract/document/11044705
+  tags:
+  - SDN
+  - IPv6
+  - Active Address Discovery
+  - Programmable Switch
+
+- id: doi:10.1109/ICNP61940.2024.10858548
+  tags:
+  - IPv6
+  - Network Measurement
+  - Fully Responsive Prefixes
+  - Active Probing
+  - Reinforcement Learning
+
+- id: doi:10.1145/3651890.3672230
+  buttons:
+  - type: manubot
+    link: 
+  - type: source
+    text: Manuscript Source
+    link: https://dl.acm.org/doi/pdf/10.1145/3651890.3672230
+  - type: website
+    link: https://dl.acm.org/doi/10.1145/3651890.3672230
+  tags:
+  - SDN
+  - Programmable Switches
+  - P4
+  - Runtime Programmability
+  repo: https://github.com/P4runpro/P4runpro
 
 - id: doi:10.1109/IPCCC59868.2024.10850165
   tags:
@@ -5,7 +103,3 @@
   - 6to4 Tunnels
   - Security
   - Address Spoofing
-
-- id: url:https://ieeexplore.ieee.org/abstract/document/11044705
-
-- id: conference:IWQOS25
