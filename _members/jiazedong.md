@@ -1,6 +1,6 @@
 ---
 name: Zedong Jia
-image: 
+image: images/jiazedong.jpg
 role: masters2025
 affiliation: Tsinghua University
 aliases:
@@ -12,4 +12,5 @@ links:
   orcid: 0009-0002-7498-9395
   github: ZedongJia
 ---
-I am currently a 1st-year master's student at the Institute for Network Sciences and Cyberspace, Tsinghua University. [More](https://zedongjia.github.io)
+
+Hi~! I am currently a 1st-year master's student at the Institute for Network Sciences and Cyberspace, Tsinghua University. See [more](https://zedongjia.github.io).
