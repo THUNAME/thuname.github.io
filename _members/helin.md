@@ -1,6 +1,6 @@
 ---
 name: Lin He
-image: images/photo.jpg
+image: https://www.insc.tsinghua.edu.cn/__local/A/88/5D/86B0E95C62D43225E275974045D_4F921EE8_73745.jpg
 role: pi2
 group: alum
 aliases:

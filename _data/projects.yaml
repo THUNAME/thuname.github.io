@@ -1,7 +1,7 @@
 - title: IPv6 Fully Responsive Prefixes Service
   subtitle: 
   group: IPv6 Measurement
-  image: images/photo.jpg
+  image: https://helinhl.github.io/assets/img/dataset_covers/frp-800.webp
   link: https://frpv6.github.io/
   description: On this project we provide an IPv6 Fully Responsive Prefix (FRP) service where we publish the Fully Responsive Prefix list (FRPlist) to interested researchers.
 
