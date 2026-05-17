@@ -1,28 +1,9 @@
-- title: TBD
-  subtitle: TBD
-  group: featured
+- title: IPv6 Fully Responsive Prefixes Service
+  subtitle: 
+  group: IPv6 Measurement
   image: images/photo.jpg
-  link: https://github.com/
-  description: TBD
-  repo: 
+  link: https://frpv6.github.io/
+  description: On this project we provide an IPv6 Fully Responsive Prefix (FRP) service where we publish the Fully Responsive Prefix list (FRPlist) to interested researchers.
+
   tags:
     - resource
-
-- title: TBD
-  subtitle: TBD
-  image: images/photo.jpg
-  link: 
-  description: TBD
-  repo: 
-  tags:
-    - resource
-    - publication
-
-- title: TBD
-  subtitle: TBD
-  image: images/photo.jpg
-  link: 
-  description: TBD
-  repo: TBD
-  tags:
-    - software
