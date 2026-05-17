@@ -63,22 +63,11 @@
   include feature.html
   image="images/members.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Team"
   flip=true
   style="bare"
   text=text
 %}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -104,37 +93,7 @@
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
-  text=text
-%}
-
-
-
-
-
-{% capture text %}
-
-这里是目前我们正在进行的研究项目
-
-
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 

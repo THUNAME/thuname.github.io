@@ -21,23 +21,3 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'PhD2025' or role =='masters2025' "%}
 {% include list.html data="members" component="portrait" filter="role == 'PhD2026' or role =='masters2026' "%}
 {% include list.html data="members" component="portrait" filter="role == 'PhD2027' or role =='masters2027' "%}
-
-
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
