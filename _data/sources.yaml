@@ -1,1 +1,11 @@
+
 - id: doi:10.1109/IPCCC59868.2024.10850165
+  tags:
+  - IPv6
+  - 6to4 Tunnels
+  - Security
+  - Address Spoofing
+
+- id: url:https://ieeexplore.ieee.org/abstract/document/11044705
+
+- id: conference:IWQOS25
