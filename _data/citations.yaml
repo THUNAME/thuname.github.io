@@ -11,5 +11,27 @@
     (IPCCC)
   date: '2024-11-22'
   link: https://doi.org/g9gcz6
+  tags:
+  - IPv6
+  - 6to4 Tunnels
+  - Security
+  - Address Spoofing
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://ieeexplore.ieee.org/abstract/document/11044705
+  title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches
+    | IEEE Conference Publication | IEEE Xplore'
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ieeexplore.ieee.org/abstract/document/11044705
+  plugin: sources.py
+  file: sources.yaml
+- id: conference:IWQOS25
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://w3id.org/scholarlydata/ontology/conference-ontology.owl#IWQOS25
   plugin: sources.py
   file: sources.yaml
