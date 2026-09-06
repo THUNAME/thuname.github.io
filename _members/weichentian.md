@@ -14,10 +14,18 @@ links:
 ---
 
 ### Hi there 👋
-I am currently a 2st-year Ph.D student at the **Institute of Network Science and Cyberspace** at **Tsinghua University**, advised by Prof.Ying Liu. I received my bachelor degree at the **School of Artificial Intelligence, Xidian University**.
+I am currently a 3rd-year Ph.D student at the **Institute of Network Science and Cyberspace** at **Tsinghua University**, advised by Prof.Ying Liu. I received my bachelor degree at the **School of Artificial Intelligence, Xidian University**.
 
 
 ### News
+
+[05/2026] TED accepted to USENIX Security'26.
+
+[05/2026] SpecNet-Agent accepted to IWQoS'26.
+
+[2026] Do Not Fall into the Trap (journal version of Luori) accepted to IEEE Transactions on Networking.
+
+[12/2025] Divide, Predict, Conquer accepted to INFOCOM'26.
 
 [11/2025] Our group won the Second Prize of the 8th Next Generation Internet Technology Innovation Competition.
 
@@ -31,6 +39,18 @@ I am currently a 2st-year Ph.D student at the **Institute of Network Science and
 
 
 ### papers
+
+[TED: Abusing Tunnel Hosts and IPv6 Extension Headers for Pulsing DoS Attacks]()
+Le Gai, Zedong Jia, Lin He, Daguo Cheng, __Chentian Wei__, Ying Liu  
+_USENIX Security 2026_
+
+[Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds]()
+Daguo Cheng, Zedong Jia, Ying Liu, Lin He, Le Gai, Chao He, Jiuzhou Zhang, __Chentian Wei__, Jiasheng Zhou, Zhaoan Wang, Jinlong E  
+_INFOCOM 2026_
+
+[SpecNet-Agent: Network-Aware Speculation Control for QoS in Agentic Generative AI Services]()
+Le Gai, Lin He, __Chentian Wei__, Zedong Jia, Daguo Cheng, Ying Liu  
+_IWQoS 2026_
 
 [SFEG: A Spatial Frequency and Edge Guided Network for Fine-Grained Crack Segmentation]()
 Hao Huang, __Chentian Wei__, Hao Wang, Liang Dong  
@@ -59,4 +79,8 @@ _ICNP2024_
 
 
 ### Journal & Magazine papers
+
+[Do Not Fall into the Trap: Efficiently Discovering IPv6 Fully Responsive Prefixes in the Wild]()
+Lin He, __Chentian Wei__, Daguo Cheng, Qilei Yin, Boran Jin, Zhaoan Wang, Xiaoteng Pan, Sixu Zhou, Ying Liu, Shenglin Zhang, Fuchao Tan, Wenmao Liu  
+_IEEE Transactions on Networking, 2026_
 
