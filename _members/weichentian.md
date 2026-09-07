@@ -11,7 +11,7 @@ links:
   home-page: https://thuname.github.io/lab-website/members/weichentian.html
   orcid: https://orcid.org/0009-0008-8023-0514
   github: ct-wei
-  Google Scholar: [ct-wei](https://scholar.google.com/citations?user=jIW_qDIAAAAJ&hl=en)
+  Google Scholar: https://scholar.google.com/citations?user=jIW_qDIAAAAJ&hl=en
 ---
 
 ### Hi there 👋
