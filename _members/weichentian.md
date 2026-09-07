@@ -40,39 +40,39 @@ I am currently a 3rd-year Ph.D student at the **Institute of Network Science and
 
 ### papers
 
-[TED: Abusing Tunnel Hosts and IPv6 Extension Headers for Pulsing DoS Attacks]()
+[TED: Abusing Tunnel Hosts and IPv6 Extension Headers for Pulsing DoS Attacks]()\
 Le Gai, Zedong Jia, Lin He, Daguo Cheng, __Chentian Wei__, Ying Liu  
 _USENIX Security 2026_
 
-[Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds]()
+[Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds]()\
 Daguo Cheng, Zedong Jia, Ying Liu, Lin He, Le Gai, Chao He, Jiuzhou Zhang, __Chentian Wei__, Jiasheng Zhou, Zhaoan Wang, Jinlong E  
 _INFOCOM 2026_
 
-[SpecNet-Agent: Network-Aware Speculation Control for QoS in Agentic Generative AI Services]()
+[SpecNet-Agent: Network-Aware Speculation Control for QoS in Agentic Generative AI Services]()\
 Le Gai, Lin He, __Chentian Wei__, Zedong Jia, Daguo Cheng, Ying Liu  
 _IWQoS 2026_
 
-[SFEG: A Spatial Frequency and Edge Guided Network for Fine-Grained Crack Segmentation]()
+[SFEG: A Spatial Frequency and Edge Guided Network for Fine-Grained Crack Segmentation]()\
 Hao Huang, __Chentian Wei__, Hao Wang, Liang Dong  
 _PRCV2025_
 
-[Subrecon: Efficient Internet-wide IPv6 Subnet Discovery and Its Applications]()
+[Subrecon: Efficient Internet-wide IPv6 Subnet Discovery and Its Applications]()\
 Jian Zhou, Ying Liu, Lin He, Yuhan Yang, Xiang Shi, Daguo Cheng, __Chentian Wei__, Yi Fan, Geyong Song  
 _ICNP2025_
 
-[Lightning in the Dark: Uncovering Global IPv6 Router Interfaces and Their Security Implications]()
+[Lightning in the Dark: Uncovering Global IPv6 Router Interfaces and Their Security Implications]()\
 Jian Zhou, Ying Liu, Lin He, Xiang Shi, Yuhan Yang, __Chentian Wei__, Daguo Cheng, Wei Gong, Jilong Yang  
 _ICNP2025_
 
-[Gungnir: Autoregressive Model for Unified Generation of IPv6 Fully Responsive Prefixes]()
+[Gungnir: Autoregressive Model for Unified Generation of IPv6 Fully Responsive Prefixes]()\
 __Chentian Wei__, Ying Liu, Lin He, Daguo Cheng, Jian Zhou  
 _ICNP2025_
 
-[Exploring Large Language Models for Word Games: Who is the Spy?]()
+[Exploring Large Language Models for Word Games: Who is the Spy?]()\
 __Chentian Wei__, Jiaming Chen, Jia Xu  
 _arXiv 2025_
 
-[Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive Prefixes]()
+[Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive Prefixes]()\
 Daguo Cheng, Lin He, __Chentian Wei__, Qilei Yin, Boran Jin, Sixu Zhou, Ying Liu, Shenglin Zhang, Fuchao Tan, Wenmao Liu  
 _ICNP2024_
 
@@ -80,7 +80,7 @@ _ICNP2024_
 
 ### Journal & Magazine papers
 
-[Do Not Fall into the Trap: Efficiently Discovering IPv6 Fully Responsive Prefixes in the Wild]()
+[Do Not Fall into the Trap: Efficiently Discovering IPv6 Fully Responsive Prefixes in the Wild]()\
 Lin He, __Chentian Wei__, Daguo Cheng, Qilei Yin, Boran Jin, Zhaoan Wang, Xiaoteng Pan, Sixu Zhou, Ying Liu, Shenglin Zhang, Fuchao Tan, Wenmao Liu  
 _IEEE Transactions on Networking, 2026_
 
