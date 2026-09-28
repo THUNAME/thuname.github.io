@@ -1,21 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.comnet.2025.111921
-  title: 'SwitchTAD: Defending deep learning-based website fingerprinting attacks
-    with programmable switches'
-  authors:
-  - Jiasheng Zhou
-  - Lin He
-  - Xiaoyi Shi
-  - Yifan Yang
-  - Jinlong E
-  - Ying Liu
-  publisher: Computer Networks
-  date: '2026-02-01'
-  link: https://doi.org/hbdtzr
-  orcid: 0009-0009-5310-3920
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1109/TC.2026.3715854
   title: 'Miresga: Achieving High-Performance and Reliable Layer-7 Load Balancing
     with Programmable Switches'
@@ -30,6 +14,22 @@
   publisher: IEEE Transactions on Computers
   date: '2026-01-01'
   link: https://doi.org/hccssw
+  orcid: 0009-0009-5310-3920
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comnet.2025.111921
+  title: 'SwitchTAD: Defending deep learning-based website fingerprinting attacks
+    with programmable switches'
+  authors:
+  - Jiasheng Zhou
+  - Lin He
+  - Xiaoyi Shi
+  - Yifan Yang
+  - Jinlong E
+  - Ying Liu
+  publisher: Computer Networks
+  date: '2026-02-01'
+  link: https://doi.org/hbdtzr
   orcid: 0009-0009-5310-3920
   plugin: orcid.py
   file: orcid.yaml
