@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/TC.2026.3715854
+  title: 'Miresga: Achieving High-Performance and Reliable Layer-7 Load Balancing
+    with Programmable Switches'
+  authors:
+  - Xiaoyi Shi
+  - Ying Liu
+  - Lin He
+  - Yifan Yang
+  - Jiasheng Zhou
+  - Rongbang Wu
+  - Jinlong E
+  publisher: IEEE Transactions on Computers
+  date: '2026-01-01'
+  link: https://doi.org/hccssw
+  orcid: 0009-0009-5310-3920
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.comnet.2025.111921
   title: 'SwitchTAD: Defending deep learning-based website fingerprinting attacks
     with programmable switches'
@@ -16,21 +33,58 @@
   orcid: 0009-0009-5310-3920
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TC.2026.3715854
-  title: 'Miresga: Achieving High-Performance and Reliable Layer-7 Load Balancing
-    with Programmable Switches'
+- id: doi:10.1109/icnp65844.2025.11192454
+  title: 'Lightning in the Dark: Uncovering Global IPv6 Router Interfaces and Their
+    Security Implications'
   authors:
+  - Jiasheng Zhou
+  - Ying Liu
+  - Lin He
   - Xiaoyi Shi
+  - Yifan Yang
+  - Chentian Wei
+  - Daguo Cheng
+  - Wenwen Gong
+  - Jiahai Yang
+  publisher: 2025 IEEE 33rd International Conference on Network Protocols (ICNP)
+  date: '2025-09-22'
+  link: https://doi.org/hb4mfr
+  orcid: 0009-0007-1799-0820
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icnp65844.2025.11192387
+  title: 'SubRecon: Efficient Internet-Wide IPv6 Subnet Discovery and Its Applications'
+  authors:
+  - Jiasheng Zhou
   - Ying Liu
   - Lin He
   - Yifan Yang
+  - Xiaoyi Shi
+  - Daguo Cheng
+  - Chentian Wei
+  - Yun Fan
+  - Guanglei Song
+  publisher: 2025 IEEE 33rd International Conference on Network Protocols (ICNP)
+  date: '2025-09-22'
+  link: https://doi.org/hb4mfs
+  orcid: 0009-0007-1799-0820
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/infocom55648.2025.11044705
+  title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches'
+  authors:
   - Jiasheng Zhou
-  - Rongbang Wu
+  - Lin He
+  - Yifan Yang
+  - Xiaoyi Shi
+  - Daguo Cheng
   - Jinlong E
-  publisher: IEEE Transactions on Computers
-  date: '2026-01-01'
-  link: https://doi.org/hccssw
-  orcid: 0009-0009-5310-3920
+  - Ying Liu
+  - Dong Zhang
+  publisher: IEEE INFOCOM 2025 - IEEE Conference on Computer Communications
+  date: '2025-05-19'
+  link: https://doi.org/hb4mfx
+  orcid: 0009-0007-1799-0820
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3696410.3714809
@@ -85,6 +139,16 @@
   - Layer-7 Load Balancing
   - Programmable Switch
   repo: https://github.com/THUNAME/Miresga
+- id: isbn:978-1-939133-48-9
+  title: 'Proceedings of the 2025 USENIX Annual Technical Conference: July 7-9, 2025,
+    Boston, MA, USA'
+  authors: []
+  publisher: USENIX Association
+  date: '2025-01-01'
+  link: ''
+  orcid: 0009-0007-1799-0820
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3651890.3672230
   title: 'P4runpro: Enabling Runtime Programmability for RMT Programmable Switches'
   authors:
